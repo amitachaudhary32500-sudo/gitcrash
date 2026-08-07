@@ -1,4 +1,4 @@
 Day 1 of Git and GitHub
 - git init
 -git add <file_name>
--git comit -m"learn about comit"
+-git commit -m"learn about commit"
